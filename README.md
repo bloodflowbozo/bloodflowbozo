@@ -48,9 +48,9 @@
 ## 📫 Contact moi
 
 <p>
-  <a href="https://www.linkedin.com/in/zack-lamontagne"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:Zacklamontagne0gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://bloodflowbozo.github.io/"><img src="https://img.shields.io/badge/Website-000000?logo=safari&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/zack-lamontagne" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:Zacklamontagne0gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://bloodflowbozo.github.io/index.html" target="_blank"><img src="https://img.shields.io/badge/Website-000000?logo=safari&logoColor=white" alt="Website" /></a>
 
 </p>
 
