@@ -6,28 +6,25 @@
   4. Delete any section you don't want. Every section is independent.
 -->
 
-<h1 align="center">Hi, I'm YOUR_NAME 👋</h1>
+<h1 align="center">Salut, Je suis Zack Lamontagne 👋</h1>
 
 <p align="center">
-  <em>YOUR_ONE_LINE_TAGLINE (e.g. Developer who loves building clean, useful things)</em>
+  <em>Esprit multimédia qui touche a tout</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/YOUR_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat&logo=github&label=Followers" alt="Followers" /></a>
-</p>
+
 
 ---
 
-## 🧑‍💻 About me
+## 🧑‍💻 À propos de moi
 
-- 🔭 I'm currently working on **YOUR_PROJECT**
-- 🌱 I'm learning **YOUR_TOPIC**
-- 🤝 I'm looking to collaborate on **YOUR_INTEREST**
-- 💬 Ask me about **YOUR_TOPICS**
-- ⚡ Fun fact: **YOUR_FUN_FACT**
+- 🔭 Je travaille en ce moment sur mon Portfolio
+- 🌱 Je suis au ÉTUDE
+- 🤝 Je suis à la recherche d'un Stage
+- 💬 J,adore le SNOWBOARD
 
-## 🛠️ Tech stack
+
+## 🛠️ Mes talents
 
 <!-- Swap badges by changing the name in the URL, e.g. /badge/Python-3776AB?logo=python&logoColor=white
      Colors are hex codes. Browse logos at https://simpleicons.org -->
@@ -39,30 +36,24 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
-## 📌 Featured projects
+## 📌 Projet souligné
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [PROJECT_ONE](https://github.com/YOUR_USERNAME/PROJECT_ONE) | Short description of what it does | JavaScript |
-| [PROJECT_TWO](https://github.com/YOUR_USERNAME/PROJECT_TWO) | Short description of what it does | Python |
-| [PROJECT_THREE](https://github.com/YOUR_USERNAME/PROJECT_THREE) | Short description of what it does | HTML/CSS |
+| [Portfolio](https://github.com/bloodflowbozo/portfolio) | Mon portfolio étudiant | Web/Design |
 
-## 📊 GitHub stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
 
-## 📫 Get in touch
+
+## 📫 Contact moi
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://YOUR_WEBSITE.com"><img src="https://img.shields.io/badge/Website-000000?logo=safari&logoColor=white" alt="Website" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/zack-lamontagne"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:Zacklamontagne0gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://bloodflowbozo.github.io/"><img src="https://img.shields.io/badge/Website-000000?logo=safari&logoColor=white" alt="Website" /></a>
+
 </p>
 
 ---
 
-<p align="center"><sub>Thanks for stopping by ✨</sub></p>
+<p align="center"><sub>Merci d'avoir lu jusqu'a la fin ✨</sub></p>
