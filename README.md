@@ -21,7 +21,7 @@
 - 🔭 Je travaille en ce moment sur mon Portfolio
 - 🌱 Je suis au ÉTUDE
 - 🤝 Je suis à la recherche d'un Stage
-- 💬 J,adore le SNOWBOARD
+- 💬 J'adore le SNOWBOARD
 
 
 ## 🛠️ Mes talents
